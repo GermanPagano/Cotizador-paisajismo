@@ -1,6 +1,6 @@
 const products = {
     tierra: [
-      { name: "Zarandeada", desc: "Tierra negra seleccionada, limpia", use: "Rellenar para césped o plantas", measures: "largo-ancho-volumen", image: "/assets/img/TIERRA NEGRA ZARANDEADA.jpeg" },
+      { name: "Zarandeada", desc: "Tierra negra seleccionada, limpia", use: "Rellenar para césped o plantas", measures: "largo-ancho-volumen", image: "./assets/img/TIERRA NEGRA ZARANDEADA.jpeg" },
       { name: "Relleno", desc: "Mezcla de tierra, piedras, arena", use: "Rellenar espacios amplios", measures: "largo-ancho-volumen", image: "/assets/img/TIERRA RELLENO.png" }
     ],
     cesped: [
