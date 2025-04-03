@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #product-details {
+    background-color: #f8f9fa;
+  }
+  
+  #product-img {
+    max-height: 200px;
+    object-fit: cover;
+  }
