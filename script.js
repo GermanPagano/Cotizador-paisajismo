@@ -1,30 +1,30 @@
 const products = {
     tierra: [
-      { name: "Zarandeada", desc: "Tierra negra seleccionada, limpia", use: "Rellenar para césped o plantas", measures: "largo-ancho-volumen", image: "./img/TIERRA NEGRA ZARANDEADA.jpeg" },
-      { name: "Relleno", desc: "Mezcla de tierra, piedras, arena", use: "Rellenar espacios amplios", measures: "largo-ancho-volumen", image: "/assets/img/TIERRA RELLENO.png" }
+      { name: "Zarandeada", desc: "Tierra negra seleccionada, limpia", use: "Rellenar para césped o plantas", measures: "largo-ancho-volumen", image: "img/TIERRA NEGRA ZARANDEADA.jpeg" },
+      { name: "Relleno", desc: "Mezcla de tierra, piedras, arena", use: "Rellenar espacios amplios", measures: "largo-ancho-volumen", image: "img/TIERRA RELLENO.png" }
     ],
     cesped: [
-      { name: "Bermuda o Tifway", desc: "Césped adaptado al clima", use: "Zonas de pleno sol", measures: "largo-ancho", image: "/assets/img/CESPED TIFWAY.jpg" },
-      { name: "Grama Bahiana", desc: "Césped perenne de hoja ancha", use: "Media sombra", measures: "largo-ancho", image: "/assets/img/CESPED BERMUDA.png" }
+      { name: "Bermuda o Tifway", desc: "Césped adaptado al clima", use: "Zonas de pleno sol", measures: "largo-ancho", image: "img/CESPED TIFWAY.jpg" },
+      { name: "Grama Bahiana", desc: "Césped perenne de hoja ancha", use: "Media sombra", measures: "largo-ancho", image: "img/CESPED BERMUDA.png" }
     ],
     aridos: [
-      { name: "Piedra Partida", desc: "Piedra triturada 1-3 cm", use: "Decoración o senderos", measures: "largo-ancho-volumen", image: "/assets/img/PIEDRA PARTIDA.jpg" },
-      { name: "Piedra Paraná", desc: "Canto rodado pequeño", use: "Decoración o senderos", measures: "largo-ancho-volumen", image: "/assets/img/PIEDRA PARANA.jpeg" },
-      { name: "Binder", desc: "Piedra micro triturada", use: "Decoración o senderos", measures: "largo-ancho-volumen", image: "/assets/img/PIEDRA BINDER.jpg" }
+      { name: "Piedra Partida", desc: "Piedra triturada 1-3 cm", use: "Decoración o senderos", measures: "largo-ancho-volumen", image: "img/PIEDRA PARTIDA.jpg" },
+      { name: "Piedra Paraná", desc: "Canto rodado pequeño", use: "Decoración o senderos", measures: "largo-ancho-volumen", image: "img/PIEDRA PARANA.jpeg" },
+      { name: "Binder", desc: "Piedra micro triturada", use: "Decoración o senderos", measures: "largo-ancho-volumen", image: "img/PIEDRA BINDER.jpg" }
     ],
     naturales: [
-      { name: "Corteza de Pino", desc: "Cáscara de pino triturada", use: "Decorar canteros o caminos", measures: "cantidad", image: "/assets/img/CORTEZA DE PINO.jpg" }
+      { name: "Corteza de Pino", desc: "Cáscara de pino triturada", use: "Decorar canteros o caminos", measures: "cantidad", image: "img/CORTEZA DE PINO.jpg" }
     ],
     cerco: [
-      { name: "Photinia Fraseri", desc: "Arbusto perenne hasta 5m", use: "Cortinas verdes altas", measures: "metros", image: "/assets/img/PHOTINIA FRASSERI.jpg" },
-      { name: "Olea Texano", desc: "Arbusto mediano hasta 1.8m", use: "Cerco de mediana altura", measures: "metros", image: "/assets/img/OLEA TEXANO.jpeg" },
-      { name: "Viburnum Tinus", desc: "Arbusto mediano con flores", use: "Cerco verde decorativo", measures: "metros", image: "/assets/img/VIBURNUM TINUS.jpg" },
-      { name: "Cotoneaster Delsiana", desc: "Arbusto de ramas finas", use: "Cerco decorativo", measures: "metros", image: "/assets/img/COTONEASTER DELSIANA.png" }
+      { name: "Photinia Fraseri", desc: "Arbusto perenne hasta 5m", use: "Cortinas verdes altas", measures: "metros", image: "img/PHOTINIA FRASSERI.jpg" },
+      { name: "Olea Texano", desc: "Arbusto mediano hasta 1.8m", use: "Cerco de mediana altura", measures: "metros", image: "img/OLEA TEXANO.jpeg" },
+      { name: "Viburnum Tinus", desc: "Arbusto mediano con flores", use: "Cerco verde decorativo", measures: "metros", image: "img/VIBURNUM TINUS.jpg" },
+      { name: "Cotoneaster Delsiana", desc: "Arbusto de ramas finas", use: "Cerco decorativo", measures: "metros", image: "img/COTONEASTER DELSIANA.png" }
     ],
     cantero: [
-      { name: "Arbustos", desc: "Plantas perennes medianas", use: "Base del jardín", measures: "cantidad", image: "/assets/img/ARBUSTOS.jpg" },
-      { name: "Herbáceas, Gramíneas y Bulbosas", desc: "Plantas decorativas", use: "Color y estilo", measures: "cantidad", image: "/assets/img/HERBACEAS GRAMINEAS Y BULVOSAS.jpeg" },
-      { name: "Palmeras", desc: "Plantas de gran porte", use: "Sensación tropical", measures: "cantidad", image: "/assets/img/PALMERAS.jpeg" }
+      { name: "Arbustos", desc: "Plantas perennes medianas", use: "Base del jardín", measures: "cantidad", image: "img/ARBUSTOS.jpg" },
+      { name: "Herbáceas, Gramíneas y Bulbosas", desc: "Plantas decorativas", use: "Color y estilo", measures: "cantidad", image: "img/HERBACEAS GRAMINEAS Y BULVOSAS.jpeg" },
+      { name: "Palmeras", desc: "Plantas de gran porte", use: "Sensación tropical", measures: "cantidad", image: "img/PALMERAS.jpeg" }
     ]
   };
   
